@@ -91,4 +91,4 @@ The template is for personal and commercial use. However, the images used in the
 You can clone this template using the following command:
 
 ```bash
-git clone https://github.com/Codewithhaider29/gosaas-template.git
+git clone https://github.com/Codewithhaider29/SaaS-and-Software-Startup.git
